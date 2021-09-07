@@ -1,4 +1,4 @@
-### > Hello, friend 🖖
+### > Hello, Friend 🖖
 
 ##
 
@@ -26,6 +26,6 @@
  
 </div>
 
-### > Goodby, friend.
+### > Goodby, Friend.
 
 <img align="center" height=100% src="https://i.pinimg.com/originals/07/8d/1d/078d1d413ce2829edd40fa51b6a53fa4.gif"/>
