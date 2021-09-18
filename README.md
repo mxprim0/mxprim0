@@ -4,7 +4,7 @@
 
 - 👩‍💻 I'm currently working with backend software development;
 - 🦉 I'm currently learning Microsoft technologies such as C#, .NET, SQL Server, Azure, in addition to agile project management and standards, and delving deeper into Algorithms and Data Structure;
-- 🤝 I'm looking to collaborate on open source projects that aim to include people new to the technology market, preferably aimed at social minorities as well.
+- 🤝 I'm looking to collaborate on open source projects that aim to include new people into the technology market, preferably aimed at social minorities as well.
 ##
 <div>
   <a href="https://github.com/dan-primo">
