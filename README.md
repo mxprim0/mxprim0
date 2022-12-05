@@ -7,9 +7,9 @@
 - 🤝 I'm looking to collaborate on open source projects that aim to include new people into the technology market, preferably aimed at social minorities as well.
 ##
 <div>
-  <a href="https://github.com/dan-primo">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dan-primo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-primo&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://github.com/dpr1mo">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dpr1mo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpr1mo&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 <div style="display: inline_block"><br>
