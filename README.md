@@ -5,6 +5,7 @@
 - 👩‍💻 I'm currently specializing in cloud computing;
 - 🦉 I'm already worked as a technical support analyst, software developer and information security analyst;
 - 🤝 I'm looking to collaborate on open source projects that aim to include new people into the technology market, preferably aimed at social minorities as well.
+- 🎧 In case you're curious, [Prisl3y](https://open.spotify.com/intl-pt/artist/6sCc9WLUiVMlFo7NadHciv?si=tbLXogZIS1WcvEwJFwDACQ) is my favorite artist ever!
 ##
 <div>
   <a href="https://github.com/mxprim0">
