@@ -2,9 +2,13 @@
 
 ##
 
-- 👩‍💻 I'm currently specializing in cloud computing;
-- 🦉 I'm already worked as a technical support analyst, software developer and information security analyst;
-- 🤝 I'm looking to collaborate on open source projects that aim to include new people into the technology market, preferably aimed at social minorities as well.
+- 🚀I'm currently specializing in Cyber Security;
+- 👩‍💻 I use the [THM](https://tryhackme.com/p/mxprim0) platform to practice and learn Cyber Security in addiction with other studies that I research in a self-taught way;
+- 📚 I believe in constant learning and I achieved some [Badges](https://www.credly.com/users/mxprim0/badges) during my graduation and I intend to continue moving forward;
+- 🌩 I developed a [Documentation](https://mxprim0.notion.site/mxprim0/25b1c479ed0c44b4aba19eb8a7b1edcf?v=5449df78f59e4845ab313cc721cd0226) during my period of studying Cloud Computing, separating useful links from my colleagues' studies and some of my own favorites to help;
+- 🖋 I'm already written my first article to practice writing, I did initial research on [Online Gender Violence](https://mxprim0.medium.com/0-viol%C3%AAncia-de-g%C3%AAnero-online-uma-introdu%C3%A7%C3%A3o-1cec63cd2e0d);
+- 🦉 I'm already did some internships during my degree in niche server areas, I worked as a Technical Support Analyst, Software Developer and Security Engineer;
+- 🤝 I really like open source communities so I look for collaborative projects in the area of information security;
 - 🎧 In case you're curious, [Prisl3y](https://open.spotify.com/intl-pt/artist/6sCc9WLUiVMlFo7NadHciv?si=tbLXogZIS1WcvEwJFwDACQ) is my favorite artist ever!
 ##
 <div>
